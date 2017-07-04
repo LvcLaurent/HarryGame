@@ -1,0 +1,2 @@
+Compilation du serveur : dans le dossier serveur lancement de make
+Utilisation : ./serveur port (ex: ./serveur 1664)  (le port du client par defaut et 1664)
